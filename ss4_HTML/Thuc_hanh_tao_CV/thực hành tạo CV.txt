@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+      This is the page head - it contains info the browser uses to display the page
+      You won't see what's in the head in the page
+      Scroll down to the body element for the page content
+    -->
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+
+    <title>Tạo CV cá nhân </title>
+  </head>
+<h1>
+  CV CÁ NHÂN :
+  </h1>
+  <h2>
+    Họ Và Tên: NGUYỄN VĂN A 
+    <br>
+    <br>
+    Địa Chỉ : 36 Mango Street 
+    <br>
+    <br>
+  Số điện thoại : 012345678789
+    <br>
+    <br>
+    Email:A@gmail.com
+    <br>
+    <br> 
+    Ảnh: 
+    <br> 
+    <br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg " />
+    
+    
+         <br>
+    <br>
+    Bằng Cấp: Đã tốt nghiệp khoa quản trị kinh doanh trường đại học A với bằng giỏi 
+    <br>
+    <br>
+    Kỹ Năng : Có thể giao tiếp tốt với đồng nghiệp , có khả năng tính nhẩm nhanh .
+    
+    
+  </h2>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+      This is the page head - it contains info the browser uses to display the page
+      You won't see what's in the head in the page
+      Scroll down to the body element for the page content
+    -->
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+
+    <title>Tạo trang web cơ bản </title>
+  </head>
+<ul>
+  
+      
+<li> VIỆT NAM </li> 
+  
+ <ol>
+   
+   <li> HÀ NỘI</li> 
+  
+   <li> SÀI GÒN </li> 
+  <li>HUẾ</li>
+  <li>ĐÀ NẴNG </li>
+  </ol>
+  <li> HOA KÌ</li>
+  <ol>
+   <li>NEW YORK</li> 
+    <li> LOS ANGELES</li>
+    <li>CHICAGO </li>
+    <li> HOUSTON</li>
+  </ol>
+  <li> TRUNG QUỐC</li>
+  <ol>
+    <li>Bejing</li>
+    <li>Chonqing</li>
+    <li>Shanghai</li>
+    <li>Tianjin</li>
+  </ol>
+    
+  </ul>
