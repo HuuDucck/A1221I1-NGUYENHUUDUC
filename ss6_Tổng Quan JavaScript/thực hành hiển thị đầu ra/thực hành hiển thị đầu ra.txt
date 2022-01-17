@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài tập ss6 Hiển thị đầu ra </title>
+</head>
+<body>
+<button type="button" onclick="showMessage();">click Me!</button>
+<script>
+    function showmessage(){
+        alert('Xin chào!');
+    }
+</script>
+<div id="messagediv"></div>
+<button type="button" onclick="showmessage();">click Me!</button>
+<script>
+    function showmessage(){
+        document.getelementbyid('messageDiv').innerHTML = 'Xin chào!';
+        
+
+    }
+</script>
+<button type="button" onclick="showmessage();">Click Me!</button>
+<script>
+    function showmessage(){
+        console.log('Xin chào!');
+    }
+</script>
+</body>
+</html>
